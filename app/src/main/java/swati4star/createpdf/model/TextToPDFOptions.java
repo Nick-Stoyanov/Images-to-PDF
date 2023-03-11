@@ -156,7 +156,5 @@ public class TextToPDFOptions extends PDFOptions {
             return new TextToPDFOptions(mFileName, mPageSize, mPasswordProtected,
                     mPassword, mInFileUri, mFontSize, mFontFamily, mFontColor, mPageColor);
         }
-
-
     }
 }
